@@ -1,0 +1,4 @@
+A group seminar work on finding the optimal quering method in the non-relational databse MongoDB. 
+Includes testing the MapReduce function, agreggation pipelines and single aggregation functions on a dataset from Udacity, after which
+the one with best performaces is compared to quering in a relational database - PostgreSQL over the same dataset. 
+To show the practical usage of the best method, it is then implemented in a movie-predictor based on Naive-Bayes.
